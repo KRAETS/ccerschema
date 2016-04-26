@@ -1,2 +1,3 @@
-su22797
-ch20946/Documents/workspace_CCER
+/Users/somedir1/somedir2
+/Users/mydir1/mydir2
+"*.*"
